@@ -25,6 +25,8 @@ Make designing on Sketch fun again by using these Drake photos and lyrics as ass
 - Select text
 - Go to `Plugins > Drake-Generator > Drake Lyrics > Text > Lyrics > Generate or Replace`
 
+![Demo](https://github.com/ishakasliwal/Drake-Sketch-Plugin/raw/master/tutorial/demo-gif.gif)
+
 
 
 ## Credits
