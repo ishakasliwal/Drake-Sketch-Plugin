@@ -5,10 +5,16 @@ Drake Generator for Sketch
 
 *I'm just saying your Sketch files could do better... tell me have you heard that lately?*
 
-Make designing on Sketch fun again by using these Drake photos and lyrics as asset placeholders and lorem ipsum text. This sketch plugin allows you to quickly generate dummy data. Users have found that stakeholders have responded better to avatars of Drake and Hotline Bling lyrics vs. the usual lorem ipsum. 
+Make designing on Sketch fun again by using these Drake photos and lyrics as asset placeholders and lorem ipsum text. This sketch plugin allows you to VERY QUICKLY generate dummy data. Users have found that stakeholders have responded better to avatars of Drake and Hotline Bling lyrics vs. the usual fillers. 
 
 
 ## Demo
+#####Installation
+1. Download Zip and Extract it to a folder
+2. In Sketch app `Plugins > Manage Plugins...`
+3. In the Preferences window, click on the cog-wheel icon, and select `Show Plugins Folder` from the dropdown.
+4. Place the extracted folder directly to the Plugins folder (nesting might not work atm)
+
 #####Generating Pictures
 - Create a shape
 - Select shape
@@ -19,15 +25,14 @@ Make designing on Sketch fun again by using these Drake photos and lyrics as ass
 - Select text
 - Go to `Plugins > Drake-Generator > Drake Lyrics > Text > Lyrics > Generate or Replace`
 
-## Installation
-1. Download Zip and Extract it to a folder
-2. In Sketch app `Plugins > Manage Plugins...`
-3. In the Preferences window, click on the cog-wheel icon, and select `Show Plugins Folder` from the dropdown.
-4. Place the extracted folder directly to the Plugins folder (nesting might not work atm)
+
 
 ## Credits
-#####Timur Carpeev's Content Generator Plugin
-This [plugin](https://github.com/timuric/Content-generator-sketch-plugin) is the bomb. It generates everything from dummy photos to numbers and more. This plugin inspired me and is the main source from which the code 
+* Timur Carpeev's Content Generator Plugin
+This [plugin](https://github.com/timuric/Content-generator-sketch-plugin) is the bomb - it generates everything from dummy photos to numbers and more. It was the framework upon which I built this Drake generator!
+* [Sagi](https://www.twitter.com/sagishrieber) 
+* [Liu Liu](https://www.twitter.com/auxdesigner)
 
 
+![Drake](https://github.com/ishakasliwal/Drake-Sketch-Plugin/raw/master/data/photos/Drake/here-are-memes-from-drakes-hotline-bling-video-0.jpg)
 *Now she want a photo, you already know though.*
