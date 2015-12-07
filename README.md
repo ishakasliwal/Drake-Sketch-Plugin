@@ -30,11 +30,7 @@ Make designing on Sketch fun again by using these Drake photos and lyrics as ass
 
 
 ## Credits
-* Timur Carpeev's Content Generator Plugin
-This [plugin](https://github.com/timuric/Content-generator-sketch-plugin) is the bomb - it generates everything from dummy photos to numbers and more. It was the framework upon which I built this Drake generator!
-* [Sagi](https://www.twitter.com/sagishrieber) 
-* [Liu Liu](https://www.twitter.com/auxdesigner)
-
+* [Timur Carpeev's Content Generator Plugin](https://github.com/timuric/Content-generator-sketch-plugin)
 
 ![Drake](https://github.com/ishakasliwal/Drake-Sketch-Plugin/raw/master/data/photos/Drake/here-are-memes-from-drakes-hotline-bling-video-0.jpg)
 *Now she want a photo, you already know though.*
