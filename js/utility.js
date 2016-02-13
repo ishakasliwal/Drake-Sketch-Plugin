@@ -1,5 +1,5 @@
 var tools = {
-	appVersion: "0.1",
+	appVersion: "0.2",
 	versionComponents : function() {
 		var info = [[NSBundle mainBundle] infoDictionary];
 		var items = [[(info["CFBundleShortVersionString"]) componentsSeparatedByString:"."] mutableCopy];
@@ -26,7 +26,7 @@ var tools = {
 		return normalString;
 	},
 
-	saveFile : function(path,data){		
+	saveFile : function(path,data){
 		var someContent = NSString.stringWithString_(data)
 		var path = path
 		someContent.dataUsingEncoding_(NSUTF8StringEncoding).writeToFile_atomically_(path, true)
@@ -36,7 +36,7 @@ var tools = {
 			var pluginFolder = scriptPath.match(/Plugins\/([\w -])*/)[0] + "/";
 			var sketchPluginsPath = scriptPath.replace(/Plugins([\w \/ -])*.sketchplugin$/, "");
 			return pluginFolder;
-		}		
+		}
 	},
 	getJSONFromURL: function(url) {
 		var request = [NSURLRequest requestWithURL:[NSURL URLWithString:url]],
