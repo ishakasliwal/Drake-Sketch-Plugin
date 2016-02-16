@@ -3,11 +3,11 @@ var loadText = function(data, label){
 	for (var i = 0, l = [selection count]; i < l; i++) {
 		var layer = selection[i];
 		var randomData = data[ Math.floor(Math.random() * data.length) ];
-		if(randomData){			
+		if(randomData){
 			[layer setStringValue: randomData];
 			[layer setName: label];
 			[layer adjustFrameToFit];
-		}		
+		}
 	}
 	tools.checkPluginUpdate();
 };

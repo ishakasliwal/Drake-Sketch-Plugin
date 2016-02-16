@@ -2,5 +2,5 @@
     "name": "Drake Content Generator",
     "description": "Sketch app plugin for generating dummy Drake content such as photos and lyrics.",
     "tags": ["content", "generator", "dummy","lorem ipsum","Drake","avatars","user profile", "hotline bling", "jumpman", "Drizzy"],
-    "version": "0.1",
+    "version": "0.2",
 }
