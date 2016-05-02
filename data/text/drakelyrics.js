@@ -13,5 +13,13 @@ data = [
 "Ever since I left the city, you, you, you, you and me we just don't get along. You make me feel like I did you wrong; going places where you don't belong. Ever since I left the city, you, you got exactly what you asked for: running out of pages in your passport; hanging with some girls I've never seen before. You used to call me on my cell phone, late night when you need my love. Call me on my cell phone, late night when you need my love. And I know when that hotline bling, that can only mean one thing.",
 "Thinking out loud: I must have a quarter-million on me right now. Hard to make a song 'bout somethin' other than the money. Two things I'm about are talking blunt and stayin' blunted. Pretty women are you here? Are you here right now, huh? We should all disappear right now. Look, you're gettin' all your friends and you're gettin' in the car and you're comin' to the house, are we clear right now, huh?",
 "I'm up first, I'm on tour, got a girl, she from the South. Used to work, used to dance in Texas, now she clean the house. Everyday, I was strugglin' to learn what life's about. On my way, money taught me Spanish, make it andale. Way up north, packed in Honda cars. They 'on't know who we are.",
-"Okay, I got these girls quite hype. Only thing on right now like a nightlight. While my brother Wayne rockin' out like a White Stripe. I'mma kill the game, I'm the Young Money white knight. Yeah, plus I'm lookin for the right type. Cautious of a flood so I always lay the right pipe. Wes put me on the marquee flight life. Plus I go hard for the woman that I might wife."
+"Okay, I got these girls quite hype. Only thing on right now like a nightlight. While my brother Wayne rockin' out like a White Stripe. I'mma kill the game, I'm the Young Money white knight. Yeah, plus I'm lookin for the right type. Cautious of a flood so I always lay the right pipe. Wes put me on the marquee flight life. Plus I go hard for the woman that I might wife.",
+"MJ in every way, I just don’t fade away",
+"You tell me that I’m confusing, more immature than Marques Houston",
+"They want to be on TV right next to me you cannot be right next to me don’t you see Riri next to me?",
+"I’m looking at their first week numbers like “what are thoooose?! I mean you boys not even coming close",
+"The most successful rapper 35 and under I’m assumin' everybody’s 35 and under, that’s when I plan to retire, man, it’s already funded",
+"Why you gotta fight with me at Cheesecake, you know I love to go there",
+"I pull up in yachts so big that they try to hit me with boat fines Hype Williams, Big Pimpin'",
+"I don’t run out of material, you shouldn’t speak on me, period, you try to give your side of the story, they heard it, but they weren’t hearing it"
 ];
