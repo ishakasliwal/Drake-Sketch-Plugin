@@ -34,3 +34,6 @@ Make designing on Sketch fun again by using these Drake photos and lyrics as ass
 
 ![Drake](https://github.com/ishakasliwal/Drake-Sketch-Plugin/raw/master/data/photos/Drake/here-are-memes-from-drakes-hotline-bling-video-0.jpg)
 *Now she want a photo, you already know though.*
+
+## Note
+I no longer actively maintain this. Thanks for your contributions and encouragement! This was a very fun project and I hope to open source more work like this in the future :O)
